@@ -1,0 +1,477 @@
+/*reset----------------------------------------*/
+.col-xs-1,
+.col-sm-1,
+.col-md-1,
+.col-lg-1,
+.col-xs-2,
+.col-sm-2,
+.col-md-2,
+.col-lg-2,
+.col-xs-3,
+.col-sm-3,
+.col-md-3,
+.col-lg-3,
+.col-xs-4,
+.col-sm-4,
+.col-md-4,
+.col-lg-4,
+.col-xs-5,
+.col-sm-5,
+.col-md-5,
+.col-lg-5,
+.col-xs-6,
+.col-sm-6
+.col-md-6,
+.col-lg-6,
+.col-xs-7,
+.col-sm-7,
+.col-md-7,
+.col-lg-7,
+.col-xs-8,
+.col-sm-8,
+.col-md-8,
+.col-lg-8,
+.col-xs-9,
+.col-sm-9,
+.col-md-9,
+.col-lg-9,
+.col-xs-10,
+.col-sm-10,
+.col-md-10,
+.col-lg-10,
+.col-xs-11,
+.col-sm-11,
+.col-md-11,
+.col-lg-11,
+.col-xs-12,
+.col-sm-12,
+.col-md-12,
+.col-lg-12
+{
+    position: relative;
+
+    min-height: 1px;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+body
+{
+    font-family: '微软雅黑';
+    font-size: 16px;
+}
+.jumbotron
+{
+    background-color: transparent;
+}
+.container-fluid
+{
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 0;
+    padding-left: 0;
+}
+/*header----------------------------------------*/
+.header-logo{
+	margin-top: 46px;
+}
+
+
+.header-bg
+{
+    position: absolute;
+    top: 0;
+
+}
+
+.nav > li > a:hover,
+.nav > li > a:focus
+{
+    text-decoration: none;
+
+    color: #fff;
+    border-bottom: 2px solid #ee4236;
+    background-color: transparent;
+}
+.nav-pills > li > a
+{
+    border-radius: 0;
+}
+.nav > li > a
+{
+    position: relative;
+    display: block;
+    margin-top: 16px;
+    padding: 34px 11px;
+}
+
+a
+{
+    text-decoration: none;
+
+    color: #fff;
+}
+a
+{
+    background-color: none;
+}
+
+/*jumbotron----------------------------------------*/
+.btn-lg,
+.btn-group-lg > .btn
+{
+    font-size: 12px;
+    line-height: 1.33;
+
+    padding: 14px 66px;
+
+    border-radius: 62px;
+}
+.btn-primary
+{
+    color: #fff;
+    border-color: transparent;
+    background-color: #ee4236;
+}
+.socialize small
+{
+    font-size: 75%;
+    color: #fff;
+}
+.socialize h2
+{
+    color: #fff;
+    margin-top:50px;
+}
+.socialize p
+{
+    font-weight: lighter;
+    margin-bottom: 62px;
+}
+.socialize
+{
+    margin-bottom: 0px;
+    padding: 0px 15px;
+    color: inherit;
+    background-color: transparent;
+}
+.socialize h2
+{
+    margin-bottom: 0;
+}
+
+.scroll-down img
+{
+    margin-top: 40px;
+    margin-bottom: 12px;
+    border-radius: 30px;
+}
+.scroll-down p
+{
+    color: #fff;
+}
+
+/*embraceInternet--------------------*/
+.embraceInternet h2,
+.embraceInternet small
+{
+    margin: 0;
+
+    color: black;
+}
+.embraceInternet
+{
+    padding-top: 147px;
+    padding-bottom: 106px;
+
+    background-color: #fff;
+}
+.jumbotron span
+{
+    display: block;
+
+    width: 30px;
+    height: 54px;
+    margin-right: auto;
+    margin-bottom: 44px;
+    margin-left: auto;
+
+    color: transparent;
+    border-bottom: 3px solid #ee4236;
+}
+.embraceInternet p
+{
+    margin-bottom: 20px;
+}
+/*whoWeAre--------------------------------*/
+.whoWeAre,
+.contactUs
+{
+    padding: 150px 0;
+
+    background-color: #f5f5f5;
+}
+.whoWeAre span
+{
+    display: block;
+
+    width: 30px;
+    height: 54px;
+    margin-bottom: 44px;
+
+    color: transparent;
+    border-bottom: 3px solid #ee4236;
+}
+
+/*whatCanWeDoForYou-------------------------*/
+.whatCanWeDoForYou h3
+{
+    margin-top: 0;
+    margin-bottom: 26px;
+}
+
+.whatCanWeDoForYou .coontainer .jumbtoron .col-lg-6 .col-lg-2 img
+{
+    margin-right: 40px;
+}
+
+.whatCanWeDoForYou .container .jumbotron p
+{
+    margin-top: 48px;
+    margin-bottom: 72px;
+}
+
+/*lottery------------------------*/
+.lottery
+{
+    position: relative;
+}
+.lottery-txt
+{
+    font-size: 12px;
+    position: absolute;
+    top: 0;
+    margin: 0;
+    color: #fff;
+    padding: 50px;
+}
+.lottery img{
+    width: 100%;
+    height: 100%；
+    
+}
+/*customWord --------------*/
+
+.customWord
+{
+    position: absolute;
+    top: 0;
+    left: 64%;
+    
+    margin-left: -50%;
+
+    color: #fff;
+}
+.circle
+{
+    font-size: 20px;
+
+    width: 2em;
+    height: 2em;
+
+    border: 2px solid #fff;
+    border-radius: 50%;
+}
+
+/*brand------------------------*/
+.brand
+{
+    padding-bottom: 180px;
+}
+.brand h2
+{
+    margin-top: 102px;
+}
+
+/*contactUs ---------------------*/
+.contactUs
+{
+    padding-bottom: 58px;
+}
+
+
+.contactUs address
+{
+    margin-right: 65px;
+    margin-left: 65px;
+
+    color: black;
+}
+.contactUs address a
+{
+    color: black;
+}
+.contactUs p
+{
+    margin-top: 36px;
+}
+.padding-rignt
+{
+    padding-right: 15px !important;
+}
+.padding-left
+{
+    padding-left: 15px !important;
+}
+.form-control
+{
+    font-size: 20px;
+
+    width: 100%;
+    height: 56px;
+    margin: 14px 0;
+    margin-right: 14px;
+    padding: 20px 30px;
+}
+/*footer----------------------------------------------------*/
+.footer
+{
+    color: #fff;
+    background-color: #2e374d ;
+}
+
+.footer h3
+{
+    margin: 100px 0 70px 0;
+}
+
+.footer p,
+.footer address,
+.footer a
+{
+    color: #ccc;
+}
+
+.footer .col-lg-3
+{
+    padding-left: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*****
+  屏幕自适应
+  *****/
+
+
+/* for very large screen only */
+
+@media (min-width: 1400px) {
+	.container{
+	width: 1320px;
+}
+}
+
+
+/* for large screen only */
+
+@media (min-width: 992px) {
+.brand img
+    {
+        margin: 10px auto;
+    
+    }
+   
+
+}
+
+/* for medium screen only */
+
+@media (min-width: 768px) and (max-width: 992px){
+
+    .brand
+    {
+        padding: 5px 0;
+    }
+    .brand img
+    {
+        margin: 5px auto;
+    }
+    .contactUs
+    {
+        padding: 0;
+    }
+    .embraceInternet,.whoWeAre {
+    padding:80px 0 40px;
+    }
+   
+    .socialize h2 {
+     font-size:22px;
+}
+ .scroll-down img
+{
+    margin-top: 5px;
+   
+}
+.socialize p{
+        margin-bottom: 30px;
+    }
+     .hidden-img{
+        display: none;
+    }
+}
+
+
+/* for small screen only */
+
+@media  (max-width: 768px){
+    .brand img
+    {
+        margin: 10px auto;
+    
+    }
+
+    .header-logo{
+    	margin-top:20px;
+
+    }
+    .nav > li > a{
+    	margin: 0;
+    	padding:20px 10px;
+    }
+
+    .socialize p{
+    	margin-bottom: 25px;
+    }
+
+    .embraceInternet,.whoWeAre {
+    padding:80px 0 40px;
+}
+
+ .socialize h2{
+    font-size:22px;
+    margin-top:20px;
+ }
+ .scroll-down img
+{
+    margin-top: 5px;
+   
+}
+
+}
+
+
